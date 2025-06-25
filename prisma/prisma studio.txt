@@ -1,0 +1,3 @@
+npx prisma studio --schema "C:\Users\abdal\OneDrive\Desktop\Final React Project\simpleServer\prisma"
+
+npx prisma studio --schema="C:/Users/abdal/OneDrive/Desktop/Final React Project/simpleServer/prisma/schema.prisma"
